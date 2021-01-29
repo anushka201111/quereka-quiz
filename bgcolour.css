@@ -1,0 +1,67 @@
+body {
+background-color:#778ca1;
+}
+
+.grid {
+width: 650px;
+height: 500px;
+margin: 0 auto;
+background-colour: #708090;
+padding:10px 60px 60px 40px;
+
+
+
+}
+
+.grid h1 {
+font-family:EB Garamond;
+font-size: 50px;
+text-align: center;
+colour: #000000;
+}
+
+
+
+#score {
+colour: #000000;
+text-align: rtl;
+font-size: 20px;
+}
+
+
+.grid #question 
+font-family: "courier new"
+font-size: 30px;
+colour: #000000
+}
+
+
+
+.buttons {
+margin-top:40px
+}
+
+#btn1, #btn2, #btn3,#btn4 {
+background-colour: #bdbbbb;
+width: 300px;
+font-size: 20px;
+colour: #ffffff;
+border: 2px solid #000000;
+border-radius: 50px;
+margin: 10px 50px 10px 0px;
+border-radius: 30px;
+padding: 20px 20px;
+}
+
+
+
+
+#btn1: focus, #btn2: focus, #btn3 : focus,#btn4 : focus {
+outline 0;
+}
+
+
+#progress {
+colour : #00000;
+font-size: 20px;
+}
